@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/vasnastos/Introduction_to_C/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vasnastos/Introduction_to_C/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<html>
+<body>
+<h1 style="text-align:center; color:red;">ΕΙΣΑΓΩΓΗ ΣΤΗΝ C</h1>
+<img src="https://github.com/vasnastos/Page_Images/blob/master/cpng.jpg?raw=true" width="1024" height="450"></img>
+<div style="border:2px solid; border-color:blue;">
+<h3 style="color:red;">ΠΕΡΙΕΧΟΜΕΝΑ
+<ul>
+<li><a href="https://github.com/vasnastos/Introduction_to_C/tree/master/%CE%9A%CE%95%CE%A6%CE%91%CE%9B%CE%91%CE%99%CE%9F_1">ΔΗΛΩΣΗ ΜΕΤΑΒΛΗΤΩΝ-ΤΥΠΟΙ ΜΕΤΑΒΛΗΤΩΝ</a></li>
+<li><a href="https://github.com/vasnastos/Introduction_to_C/tree/master/%CE%9A%CE%95%CE%A6%CE%91%CE%9B%CE%91%CE%99%CE%9F_2">ΕΙΣΟΔΟΙ ΔΕΜΕΝΩΝ-ΕΞΑΓΩΓΗ ΔΕΔΟΜΕΝΩΝ</a></li>
+<li><a href="https://github.com/vasnastos/Introduction_to_C/tree/master/%CE%9A%CE%95%CE%A6%CE%91%CE%9B%CE%91%CE%99%CE%91_(3-4)">ΤΕΛΕΣΤΕΣ-ΔΟΜΕΣ ΕΛΕΓΧΟΥ</a></li>
+<li><a href="https://github.com/vasnastos/Introduction_to_C/tree/master/%CE%9A%CE%95%CE%A6%CE%91%CE%9B%CE%91%CE%99%CE%9F_5">ΔΟΜΕΣ ΕΠΑΝΑΛΗΨΗΣ</a></li>
+</ul>
+<hr>
+<h4 style="color:purple;">ΑΣΚΗΣΕΙΣ</h3>
+<ol>
+<li><a href="https://github.com/vasnastos/Introduction_to_C/tree/master/%CE%9A%CE%95%CE%A6%CE%91%CE%9B%CE%91%CE%99%CE%9F_1">ΔΗΛΩΣΗ ΜΕΤΑΒΛΗΤΩΝ-ΤΥΠΟΙ ΜΕΤΑΒΛΗΤΩΝ</a></li>
+<li><a href="https://github.com/vasnastos/Introduction_to_C/tree/master/%CE%9A%CE%95%CE%A6%CE%91%CE%9B%CE%91%CE%99%CE%9F_2/%CE%91%CE%A3%CE%9A%CE%97%CE%A3%CE%95%CE%99%CE%A3">ΕΙΣΟΔΟΙ ΔΕΜΕΝΩΝ-ΕΞΑΓΩΓΗ ΔΕΔΟΜΕΝΩΝ</a></li>
+<li><a href="https://github.com/vasnastos/Introduction_to_C/tree/master/%CE%9A%CE%95%CE%A6%CE%91%CE%9B%CE%91%CE%99%CE%91_(3-4)/A%CE%A3%CE%9A%CE%97%CE%A3%CE%95%CE%99%CE%A3">ΤΕΛΕΣΤΕΣ-ΔΟΜΕΣ ΕΛΕΓΧΟΥ</a></li>
+<li><a href="https://github.com/vasnastos/Introduction_to_C/tree/master/%CE%9A%CE%95%CE%A6%CE%91%CE%9B%CE%91%CE%99%CE%9F_5/%CE%91%CE%A3%CE%9A%CE%97%CE%A3%CE%95%CE%99%CE%A3">ΔΟΜΕΣ ΕΠΑΝΑΛΗΨΗΣ</a></li>
+</ol>
+</div>
+</body>
+</html>
