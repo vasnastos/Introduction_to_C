@@ -19,8 +19,13 @@
 <li><a href="https://github.com/vasnastos/Introduction_to_C/tree/master/%CE%9A%CE%95%CE%A6%CE%91%CE%9B%CE%91%CE%99%CE%9F_2/%CE%91%CE%A3%CE%9A%CE%97%CE%A3%CE%95%CE%99%CE%A3">ΕΙΣΟΔΟΙ ΔΕΜΕΝΩΝ-ΕΞΑΓΩΓΗ ΔΕΔΟΜΕΝΩΝ</a></li>
 <li><a href="https://github.com/vasnastos/Introduction_to_C/tree/master/%CE%9A%CE%95%CE%A6%CE%91%CE%9B%CE%91%CE%99%CE%91_(3-4)/A%CE%A3%CE%9A%CE%97%CE%A3%CE%95%CE%99%CE%A3">ΤΕΛΕΣΤΕΣ-ΔΟΜΕΣ ΕΛΕΓΧΟΥ</a></li>
 <li><a href="https://github.com/vasnastos/Introduction_to_C/tree/master/%CE%9A%CE%95%CE%A6%CE%91%CE%9B%CE%91%CE%99%CE%9F_5/%CE%91%CE%A3%CE%9A%CE%97%CE%A3%CE%95%CE%99%CE%A3">ΔΟΜΕΣ ΕΠΑΝΑΛΗΨΗΣ</a></li>
-<li><b><a href="https://github.com/vasnastos/Introduction_to_C/raw/master/VS%20Code%20Instalation.pdf">Εγκατάσταση Visual Studio Code</a></b></li>
 </ol>
+  <h2>Εγκατάσταση του Visual Studio Code Στα Windows</h2>
+  <ul>
+    <li><a href="https://code.visualstudio.com/docs/?dv=win">VSCode Windows</a></li>
+    <li><a href="https://github.com/jmeubank/tdm-gcc/releases/download/v9.2.0-tdm64-1/tdm64-gcc-9.2.0.exe">Compiler Download</a></li>
+    <li><a href="https://github.com/vasnastos/Introduction_to_C/raw/master/VS%20Code%20Instalation.pdf">Οδηγίες Εγκατάστασης</a></li>
+  </ul>
 </div>
 </body>
 </html>
