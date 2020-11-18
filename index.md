@@ -2,7 +2,6 @@
 <body>
 <h1 style="text-align:center; color:red;">ΕΙΣΑΓΩΓΗ ΣΤΗΝ C</h1>
 <img src="https://github.com/vasnastos/Page_Images/blob/master/cpng.jpg?raw=true" width="1024" height="450">
-<div style="border:2px solid; border-color:blue;">
 <h3 style="color:red;">ΠΕΡΙΕΧΟΜΕΝΑ</h3>
   <br>
 <ul>
