@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1 style="text-align:center; color:red;">ΕΙΣΑΓΩΓΗ ΣΤΗΝ C</h1>
-<img src="https://github.com/vasnastos/Page_Images/blob/master/cpng.jpg?raw=true" width="1024" height="450"></img>
+<img src="https://github.com/vasnastos/Page_Images/blob/master/cpng.jpg?raw=true" width="1024" height="450">
 <div style="border:2px solid; border-color:blue;">
 <h3 style="color:red;">ΠΕΡΙΕΧΟΜΕΝΑ</h3>
   <br>
@@ -26,6 +26,3 @@
     <li><a href="https://github.com/jmeubank/tdm-gcc/releases/download/v9.2.0-tdm64-1/tdm64-gcc-9.2.0.exe">Compiler Download</a></li>
     <li><a href="https://github.com/vasnastos/Introduction_to_C/raw/master/VS%20Code%20Instalation.pdf">Οδηγίες Εγκατάστασης</a></li>
   </ul>
-</div>
-</body>
-</html>
