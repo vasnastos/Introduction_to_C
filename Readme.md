@@ -19,6 +19,10 @@
 <li><a href="https://github.com/vasnastos/Introduction_to_C/tree/master/%CE%9A%CE%95%CE%A6%CE%91%CE%9B%CE%91%CE%99%CE%9F_2/%CE%91%CE%A3%CE%9A%CE%97%CE%A3%CE%95%CE%99%CE%A3">ΕΙΣΟΔΟΙ ΔΕΜΕΝΩΝ-ΕΞΑΓΩΓΗ ΔΕΔΟΜΕΝΩΝ</a></li>
 <li><a href="https://github.com/vasnastos/Introduction_to_C/tree/master/%CE%9A%CE%95%CE%A6%CE%91%CE%9B%CE%91%CE%99%CE%91_(3-4)/A%CE%A3%CE%9A%CE%97%CE%A3%CE%95%CE%99%CE%A3">ΤΕΛΕΣΤΕΣ-ΔΟΜΕΣ ΕΛΕΓΧΟΥ</a></li>
 <li><a href="https://github.com/vasnastos/Introduction_to_C/tree/master/%CE%9A%CE%95%CE%A6%CE%91%CE%9B%CE%91%CE%99%CE%9F_5/%CE%91%CE%A3%CE%9A%CE%97%CE%A3%CE%95%CE%99%CE%A3">ΔΟΜΕΣ ΕΠΑΝΑΛΗΨΗΣ</a></li>
+  <li>Επαναληπτικές Ασκήσεις</li>
+  <ul>
+    <li>ΣΕΤ_1:<a href="https://github.com/vasnastos/Introduction_to_C/tree/master/%CE%95%CE%A0%CE%91%CE%9D%CE%91%CE%9B%CE%97%CE%A8%CE%97_1">set_1</a></li>
+    </ul>
 </ol>
   <h2>Εγκατάσταση του Visual Studio Code Στα Windows</h2>
   <ul>
