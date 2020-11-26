@@ -11,7 +11,7 @@
 <li><a href="https://github.com/vasnastos/Introduction_to_C/tree/master/%CE%9A%CE%95%CE%A6%CE%91%CE%9B%CE%91%CE%99%CE%9F_5">ΔΟΜΕΣ ΕΠΑΝΑΛΗΨΗΣ</a></li>
 </ul>
 <hr>
-<h4 style="color:purple;">ΑΣΚΗΣΕΙΣ</h3>
+<h4 style="color:purple;">ΑΣΚΗΣΕΙΣ</h4>
   <br>
 <ol>
 <li><a href="https://github.com/vasnastos/Introduction_to_C/tree/master/%CE%9A%CE%95%CE%A6%CE%91%CE%9B%CE%91%CE%99%CE%9F_1">ΔΗΛΩΣΗ ΜΕΤΑΒΛΗΤΩΝ-ΤΥΠΟΙ ΜΕΤΑΒΛΗΤΩΝ</a></li>
