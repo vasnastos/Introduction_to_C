@@ -23,6 +23,7 @@
 <h3>Επαναληπτικές Ασκήσεις</h3>
   <ul>
     <li>ΣΕΤ_1:<a href="https://github.com/vasnastos/Introduction_to_C/tree/master/%CE%95%CE%A0%CE%91%CE%9D%CE%91%CE%9B%CE%97%CE%A8%CE%97_1">set_1</a></li>
+    <li>Σετ_2(Δομές Ελέγχου-Επανάληψης):<a href="https://docs.google.com/document/d/1DLpvGQdldLMI02KhMWWSMDDe_Q8xGYayWp69Of6BK0Y/edit?usp=sharing">set_2</a></li>
     </ul>
   <h2>Εγκατάσταση του Visual Studio Code Στα Windows</h2>
   <ul>
